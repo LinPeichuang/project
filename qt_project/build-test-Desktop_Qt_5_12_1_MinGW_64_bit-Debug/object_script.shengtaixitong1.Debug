@@ -1,0 +1,16 @@
+debug/main.o
+debug/ecosystem.o
+debug/myitem.o
+debug/myscene.o
+debug/empty.o
+debug/grass.o
+debug/rabbit.o
+debug/tiger.o
+debug/world.o
+debug/fox.o
+debug/mainwindow.o
+debug/qrc_img.o
+debug/moc_ecosystem.o
+debug/moc_myscene.o
+debug/moc_living.o
+debug/moc_mainwindow.o

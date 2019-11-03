@@ -1,0 +1,16 @@
+release/main.o
+release/ecosystem.o
+release/myitem.o
+release/myscene.o
+release/empty.o
+release/grass.o
+release/rabbit.o
+release/tiger.o
+release/world.o
+release/fox.o
+release/mainwindow.o
+release/qrc_img.o
+release/moc_ecosystem.o
+release/moc_myscene.o
+release/moc_living.o
+release/moc_mainwindow.o

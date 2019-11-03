@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/animals">
+        <file>Resources/background.png</file>
+        <file>Resources/chick.png</file>
+        <file>Resources/deer.png</file>
+        <file>Resources/grass.png</file>
+        <file>Resources/tiger.png</file>
+        <file>Resources/wolf.png</file>
+        <file>Resources/desktop.png</file>
+        <file>Resources/bd1.png</file>
+    </qresource>
+</RCC>
